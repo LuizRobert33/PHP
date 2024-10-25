@@ -2,6 +2,6 @@
 
 $nome = "Luiz Roberto";
 
-echo "seja bem vindo", $nome;
+echo "seja bem vindo ", $nome;
 
 
